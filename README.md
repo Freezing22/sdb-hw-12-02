@@ -31,7 +31,7 @@
 
 ### Ответ
 
-![Задание 1](https://github.com/Freezing22/hw-03/blob/main/img/PNG1.png)
+![Задание 1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG1.png)
 
 ---
 
@@ -51,8 +51,8 @@
 
 ### Ответ
 
-![Задание 2](https://github.com/Freezing22/hw-03/blob/main/img/PNG2.png)
-![Задание 2](https://github.com/Freezing22/hw-03/blob/main/img/PNG3.png)
+![Задание 2-1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG2.png)
+![Задание 2-2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG3.png)
 
 ### Задание 3. Подготовка HA кластера
 
@@ -81,10 +81,10 @@
 
 ### Ответ
 
-![Задание 3](https://github.com/Freezing22/hw-03/blob/main/img/PNG4.png)
-![Задание 3](https://github.com/Freezing22/hw-03/blob/main/img/PNG5.png)
-![Задание 3](https://github.com/Freezing22/hw-03/blob/main/img/PNG6.png)
-![Задание 3](https://github.com/Freezing22/hw-03/blob/main/img/PNG7.png)
-![Задание 3](https://github.com/Freezing22/hw-03/blob/main/img/PNG8.png)
-![Задание 3](https://github.com/Freezing22/hw-03/blob/main/img/PNG9.png)
+![Задание 3-1](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG4.png)
+![Задание 3-2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG5.png)
+![Задание 3-3](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG6.png)
+![Задание 3-4](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG7.png)
+![Задание 3-5](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG8.png)
+![Задание 3-6](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG9.png)
 
