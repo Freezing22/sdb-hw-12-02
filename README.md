@@ -51,27 +51,27 @@ Master-Master — двунаправленная репликация, где о
 
 mysqld.cnf
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG1.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/tree/main/img/PNG1.png)
 
 Статус работы: 
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG2.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/tree/main/img/PNG2.png)
 
 
 #### Slave Server
 
 mysqld.cnf
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG3.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/tree/main/img/PNG3.png)
 
 Статус работы: 
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG4.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/tree/main/img/PNG4.png)
 
 Созданная на master база данных реплецировалась на slave
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG5.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/tree/main/img/PNG5.png)
 
-![Задание 2](https://github.com/Freezing22/sdb-hw-11-04/blob/main/img/PNG6.png)
+![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/tree/main/img/PNG6.png)
 
 ---
