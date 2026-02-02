@@ -68,7 +68,7 @@ mysqld.cnf
 
 ![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/blob/main/img/PNG4.png)
 
-Созданная на master база данных реплецировалась на slave
+Созданная на master база данных(test_repl) реплецировалась на slave
 
 ![Задание 2](https://github.com/Freezing22/sdb-hw-12-02/blob/main/img/PNG5.png)
 
